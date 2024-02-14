@@ -1,0 +1,26 @@
+.card{
+    padding: 50px;
+    margin: 50px;
+    width: 250px;
+    height: 500pxpx;
+    background-color:rgb(6, 76, 146);
+    color: white;
+    cursor: pointer;
+    border-radius: 70px;
+  
+
+    
+}
+img{
+    border-radius: 90px;
+}
+.card:hover{
+    background-color: rgb(172, 142, 194);
+    color: white;
+    cursor: pointer;
+    scale: 1.1;
+    box-shadow: 5px 5px 15px rgb(49, 49, 49);
+transition: 0.3s all;
+border-radius: 70px;
+
+}
